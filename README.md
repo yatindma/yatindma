@@ -243,25 +243,6 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=PUBLIC%20BUILDS&fontSize=30&fontColor=ff4d8d&animation=twinkling" />
-
-<a href="https://github.com/yatindma/sportradar-demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatindma&repo=sportradar-demo&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
-</a>
-<a href="https://github.com/yatindma/legals_AI_RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatindma&repo=legals_AI_RAG&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
-</a>
-
-</div>
-
-<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffaa,50:a855f7,100:ff4d8d&height=2" width="100%"/>
-</div>
-
----
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=CONTRIBUTION%20SNAKE&fontSize=30&fontColor=00ffaa&animation=twinkling" />
 
 <picture>
