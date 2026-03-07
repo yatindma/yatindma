@@ -275,7 +275,7 @@
     <text x="783" y="342" text-anchor="middle" fill="#ff4d8d" font-size="12" font-family="monospace">🧠</text>
     <text x="805" y="326" fill="#e2eaf4" font-size="12" font-weight="bold" font-family="'Segoe UI', sans-serif">focus_areas</text>
     <text x="805" y="342" fill="#ff4d8d" font-size="10" font-family="'Fira Code', monospace">Agentic AI · LLM · RAG</text>
-    <text x="805" y="358" fill="#5a7090" font-size="9" font-family="'Fira Code', monospace">LoRA · DPO · KTO · 7B+</text>
+    <text x="805" y="358" fill="#5a7090" font-size="9" font-family="'Fira Code', monospace">Enterprise Architecture</text>
   </g>
 
   <!-- Focus sub: Agents -->
