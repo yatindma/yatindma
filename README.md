@@ -17,7 +17,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=yatindma&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/Frankfurt-Germany-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Heidelberg-Germany-a855f7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Built%20for-AI%20at%20Scale-00ffaa?style=for-the-badge"/>
 
 </div>
@@ -119,20 +119,39 @@ AI Engineer • Systems Thinker • Builder • Founder
 </div>
 
 ### 🏦 CAPCO GmbH — Consultant AI Engineer
-**Frankfurt, Germany**
-- Built multi-agent enterprise automation across Jira and Azure DevOps
-- Developed DORA-aligned ICT risk assessment workflows
-- Contributed to internal GenAI systems used across European teams
+**Frankfurt, Germany · Feb 2025 – Present**
+- Built multi-agent automation for Jira / Azure DevOps, reducing manual ticket handling by 75%
+- Architected DORA-aligned ICT risk assessment engine, cutting compliance turnaround by 10x
+- Led internal GenAI platform (doc Q&A, semantic search, PPT translation) — 90% adoption, 99.5% uptime
+- Designed operational risk intelligence engine combining ML models with LLM-based reasoning
 
-### 🎓 FAU Erlangen-Nürnberg — M.Sc. Data Science
-**Erlangen, Germany**
-- Deep Learning and Generative AI specialisation
-- Thesis focused on modern LLM systems and evaluation
+### 🖥️ CGI GmbH — AI / ML Engineer
+**Germany · Mar 2022 – Dec 2024**
+- Designed LLM-based clinical reporting assistant, reducing documentation time by 30%
+- Standardised MLOps pipelines on Azure DevOps — cut deployment friction by 50%
+- Built topic-modelling and clustering pipelines for large-scale feedback analysis
+- Developed annotation accelerator increasing labelled-data creation speed by 50%
+
+### 🌐 Sunware Technology — AI Engineer (Freelance)
+**India · May 2021 – Sep 2021**
+- Delivered conversational automation on Rasa, reducing support workload by 40%
+
+### 🔧 Idexcel Technology — ML Engineer
+**India · Nov 2020 – May 2021**
+- Built Textract + ML document-understanding pipeline — 98% field-extraction accuracy
+
+### 🛡️ Pratian Technologies — AI & Software Engineer
+**India · Feb 2018 – Nov 2020**
+- Built ML prototypes for defence applications, optimising CV/NLP models for constrained hardware
+
+### 🎓 Education
+- **M.Sc. Data Science** — FAU Erlangen-Nürnberg (2021–2024)
+- **B.Tech Information Technology** — SRM Institute (2014–2018)
 
 ### 🪐 VedicMatch.in — Founder
 **Built solo · Live**
 - AI-powered Vedic compatibility and matchmaking platform
-- Built end-to-end solo using cloud infra, payments, and LLM pipelines
+- Built end-to-end solo using Hostinger VPS, Razorpay, and LLM pipelines
 
 <!-- ═══════════════ NEON DIVIDER ═══════════════ -->
 <div align="center">
