@@ -118,40 +118,14 @@ AI Engineer • Systems Thinker • Builder • Founder
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=EXPERIENCE&fontSize=30&fontColor=ffd166&animation=twinkling" />
 </div>
 
-### 🏦 CAPCO GmbH — Consultant AI Engineer
-**Frankfurt, Germany · Feb 2025 – Present**
-- Built multi-agent automation for Jira / Azure DevOps, reducing manual ticket handling by 75%
-- Architected DORA-aligned ICT risk assessment engine, cutting compliance turnaround by 10x
-- Led internal GenAI platform (doc Q&A, semantic search, PPT translation) — 90% adoption, 99.5% uptime
-- Designed operational risk intelligence engine combining ML models with LLM-based reasoning
-
-### 🖥️ CGI GmbH — AI / ML Engineer
-**Germany · Mar 2022 – Dec 2024**
-- Designed LLM-based clinical reporting assistant, reducing documentation time by 30%
-- Standardised MLOps pipelines on Azure DevOps — cut deployment friction by 50%
-- Built topic-modelling and clustering pipelines for large-scale feedback analysis
-- Developed annotation accelerator increasing labelled-data creation speed by 50%
-
-### 🌐 Sunware Technology — AI Engineer (Freelance)
-**India · May 2021 – Sep 2021**
-- Delivered conversational automation on Rasa, reducing support workload by 40%
-
-### 🔧 Idexcel Technology — ML Engineer
-**India · Nov 2020 – May 2021**
-- Built Textract + ML document-understanding pipeline — 98% field-extraction accuracy
-
-### 🛡️ Pratian Technologies — AI & Software Engineer
-**India · Feb 2018 – Nov 2020**
-- Built ML prototypes for defence applications, optimising CV/NLP models for constrained hardware
-
-### 🎓 Education
-- **M.Sc. Data Science** — FAU Erlangen-Nürnberg (2021–2024)
-- **B.Tech Information Technology** — SRM Institute (2014–2018)
-
-### 🪐 VedicMatch.in — Founder
-**Built solo · Live**
-- AI-powered Vedic compatibility and matchmaking platform
-- Built end-to-end solo using Hostinger VPS, Razorpay, and LLM pipelines
+🏦 **CAPCO GmbH** — Consultant AI Engineer · Frankfurt · Feb 2025 – Present
+🖥️ **CGI GmbH** — AI / ML Engineer · Germany · Mar 2022 – Dec 2024
+🌐 **Sunware Technology** — AI Engineer (Freelance) · India · 2021
+🔧 **Idexcel Technology** — ML Engineer · India · 2020–2021
+🛡️ **Pratian Technologies** — AI & Software Engineer · India · 2018–2020
+🎓 **M.Sc. Data Science** — FAU Erlangen-Nürnberg · 2021–2024
+🎓 **B.Tech IT** — SRM Institute · 2014–2018
+🪐 **VedicMatch.in** — Founder · Built solo · Live
 
 <!-- ═══════════════ NEON DIVIDER ═══════════════ -->
 <div align="center">
