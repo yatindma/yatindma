@@ -30,16 +30,14 @@
 </div>
 
 <div align="center">
-
-## 01 / SYSTEM PROFILE
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=SYSTEM%20PROFILE&fontSize=30&fontColor=00d2ff&animation=twinkling" />
 </div>
 
 <!-- ═══════════════ N8N ANIMATED NODE GRAPH ═══════════════ -->
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/yatindma/yatindma/main/n8n-profile.svg" width="100%"/>
-</div>
+<br/>
 
 AI Engineer • Systems Thinker • Builder • Founder
 
@@ -53,11 +51,10 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-
-## 02 / IMPACT
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=IMPACT&fontSize=30&fontColor=a855f7&animation=twinkling" />
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
@@ -74,6 +71,7 @@ AI Engineer • Systems Thinker • Builder • Founder
 </td>
 </tr>
 </table>
+</div>
 
 <!-- ═══════════════ NEON DIVIDER ═══════════════ -->
 <div align="center">
@@ -83,35 +81,31 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-
-## 03 / WHAT I BUILD
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=WHAT%20I%20BUILD&fontSize=30&fontColor=ff4d8d&animation=twinkling" />
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="72"/><br/>
-<b>Agentic AI</b><br/>
+<img src="https://img.shields.io/badge/🤖-Agentic_AI-00d2ff?style=for-the-badge" /><br/>
 <sub>LangGraph · CrewAI · AutoGen<br/>tool use · reflection · memory</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="72"/><br/>
-<b>LLM + RAG</b><br/>
+<img src="https://img.shields.io/badge/🧠-LLM_+_RAG-a855f7?style=for-the-badge" /><br/>
 <sub>Milvus · Pinecone · Neo4j<br/>custom retrieval systems</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="72"/><br/>
-<b>Finetuning</b><br/>
+<img src="https://img.shields.io/badge/🔧-Finetuning-ff4d8d?style=for-the-badge" /><br/>
 <sub>LoRA · DPO · KTO<br/>7B model adaptation</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="72"/><br/>
-<b>MLOps</b><br/>
+<img src="https://img.shields.io/badge/☁️-MLOps-ffd166?style=for-the-badge" /><br/>
 <sub>Azure · CI/CD · monitoring<br/>production AI infra</sub>
 </td>
 </tr>
 </table>
+</div>
 
 <!-- ═══════════════ NEON DIVIDER ═══════════════ -->
 <div align="center">
@@ -121,14 +115,8 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-
-## 04 / EXPERIENCE
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=EXPERIENCE&fontSize=30&fontColor=ffd166&animation=twinkling" />
 </div>
-
-<table>
-<tr>
-<td width="100%" valign="top">
 
 ### 🏦 CAPCO GmbH — Consultant AI Engineer
 **Frankfurt, Germany**
@@ -146,10 +134,6 @@ AI Engineer • Systems Thinker • Builder • Founder
 - AI-powered Vedic compatibility and matchmaking platform
 - Built end-to-end solo using cloud infra, payments, and LLM pipelines
 
-</td>
-</tr>
-</table>
-
 <!-- ═══════════════ NEON DIVIDER ═══════════════ -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d8d,50:ffd166,100:00ffaa&height=2" width="100%"/>
@@ -158,9 +142,7 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-
-## 05 / TECH STACK
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=TECH%20STACK&fontSize=30&fontColor=00ffaa&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -199,15 +181,16 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-
-## 06 / VENTURE
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=VENTURE&fontSize=30&fontColor=00d2ff&animation=twinkling" />
+<br/>
 
 <a href="https://vedicmatch.in">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=120&section=header&text=VedicMatch.in&fontSize=38&fontColor=ffffff&desc=Ancient%20Vedic%20matching%20meets%20modern%20AI&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=180&section=header&text=VedicMatch.in&fontSize=42&fontColor=ffffff&fontAlignY=30&desc=Ancient%20Vedic%20matching%20meets%20modern%20AI&descSize=18&descAlignY=60"/>
 </a>
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -223,7 +206,7 @@ AI Engineer • Systems Thinker • Builder • Founder
 
 <img src="https://img.shields.io/badge/Live-vedicmatch.in-FF9A3C?style=for-the-badge"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/GCP-Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hostinger-VPS-674CC4?style=for-the-badge&logo=hostinger&logoColor=white"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Razorpay-Integrated-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
 <br/><br/>
@@ -232,6 +215,7 @@ AI Engineer • Systems Thinker • Builder • Founder
 </td>
 </tr>
 </table>
+</div>
 
 <!-- ═══════════════ NEON DIVIDER ═══════════════ -->
 <div align="center">
@@ -241,8 +225,7 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-
-## 07 / GITHUB SIGNAL
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=GITHUB%20SIGNAL&fontSize=30&fontColor=a855f7&animation=twinkling" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=yatindma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatindma&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=ff4d8d&currStreakLabel=a855f7&sideNums=e2eaf4&dates=5a7090" width="49%"/>
@@ -260,14 +243,13 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=PUBLIC%20BUILDS&fontSize=30&fontColor=ff4d8d&animation=twinkling" />
 
-## 08 / SELECTED PUBLIC BUILDS
-
-<a href="https://github.com/yatindma?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatindma&repo=SportScout-AI&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
+<a href="https://github.com/yatindma/sportradar-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatindma&repo=sportradar-demo&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
 </a>
-<a href="https://github.com/yatindma?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatindma&repo=RAG-Pipeline&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
+<a href="https://github.com/yatindma/legals_AI_RAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatindma&repo=legals_AI_RAG&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
 </a>
 
 </div>
@@ -280,8 +262,7 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-
-## 09 / CONTRIBUTION SNAKE
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=CONTRIBUTION%20SNAKE&fontSize=30&fontColor=00ffaa&animation=twinkling" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yatindma/yatindma/output/github-contribution-grid-snake-dark.svg" />
@@ -299,8 +280,7 @@ AI Engineer • Systems Thinker • Builder • Founder
 ---
 
 <div align="center">
-
-## 10 / CONNECT
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=CONNECT&fontSize=30&fontColor=ffd166&animation=twinkling" />
 
 <a href="https://linkedin.com/in/yatin-arora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/yatindma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
