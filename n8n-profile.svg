@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" fill="none">
+  <defs>
+    <!-- Neon glow filters -->
+    <filter id="glow-cyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#00d2ff" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-purple" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#a855f7" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-pink" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#ff4d8d" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-green" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#00ffaa" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-gold" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#ffd166" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft-shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+
+    <!-- Animated dash for connectors -->
+    <style>
+      @keyframes dash-flow {
+        to { stroke-dashoffset: -24; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; }
+      }
+      @keyframes fadeSlideIn {
+        from { opacity: 0; transform: translateY(8px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes nodeAppear {
+        from { opacity: 0; transform: scale(0.85); }
+        to { opacity: 1; transform: scale(1); }
+      }
+      @keyframes dotPulse {
+        0%, 100% { r: 3; opacity: 0.6; }
+        50% { r: 5; opacity: 1; }
+      }
+      .connector {
+        stroke-dasharray: 8 6;
+        animation: dash-flow 1.2s linear infinite;
+      }
+      .node-group { animation: nodeAppear 0.6s ease-out both; }
+      .n1 { animation-delay: 0s; }
+      .n2 { animation-delay: 0.15s; }
+      .n3 { animation-delay: 0.3s; }
+      .n4 { animation-delay: 0.45s; }
+      .n5 { animation-delay: 0.6s; }
+      .n6 { animation-delay: 0.75s; }
+      .n7 { animation-delay: 0.9s; }
+      .n8 { animation-delay: 1.05s; }
+      .n9 { animation-delay: 1.2s; }
+      .pulse-dot { animation: dotPulse 2s ease-in-out infinite; }
+      .pd1 { animation-delay: 0s; }
+      .pd2 { animation-delay: 0.3s; }
+      .pd3 { animation-delay: 0.6s; }
+      .pd4 { animation-delay: 0.9s; }
+      .pd5 { animation-delay: 1.2s; }
+      .pd6 { animation-delay: 1.5s; }
+      .pd7 { animation-delay: 1.8s; }
+      .pd8 { animation-delay: 0.4s; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="520" rx="16" fill="#0d1117"/>
+  <!-- Subtle grid -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a2233" stroke-width="0.5"/>
+  </pattern>
+  <rect width="1000" height="520" rx="16" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- ════════ CONNECTORS (drawn first, behind nodes) ════════ -->
+
+  <!-- Center → Role (left-up) -->
+  <path d="M 420,250 C 350,250 330,120 280,120" class="connector" stroke="#00d2ff" stroke-width="2" fill="none" opacity="0.7"/>
+  <!-- Center → Location (left-down) -->
+  <path d="M 420,270 C 340,270 320,400 280,400" class="connector" stroke="#a855f7" stroke-width="2" fill="none" opacity="0.7"/>
+
+  <!-- Center → Focus (right-up) -->
+  <path d="M 580,250 C 650,250 660,100 720,100" class="connector" stroke="#ff4d8d" stroke-width="2" fill="none" opacity="0.7"/>
+  <!-- Center → Mode (right-down) -->
+  <path d="M 580,270 C 660,270 660,400 720,400" class="connector" stroke="#00ffaa" stroke-width="2" fill="none" opacity="0.7"/>
+
+  <!-- Role → Education -->
+  <path d="M 170,120 C 110,120 100,55 160,40" class="connector" stroke="#00d2ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+
+  <!-- Focus → sub-nodes -->
+  <path d="M 830,100 C 880,100 900,50 920,50" class="connector" stroke="#ff4d8d" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M 830,100 C 880,100 900,130 920,140" class="connector" stroke="#ff4d8d" stroke-width="1.5" fill="none" opacity="0.5"/>
+
+  <!-- Mode → Company -->
+  <path d="M 830,400 C 880,400 900,440 920,450" class="connector" stroke="#00ffaa" stroke-width="1.5" fill="none" opacity="0.5"/>
+
+  <!-- Animated dots on connectors -->
+  <circle cx="370" cy="230" r="3" fill="#00d2ff" class="pulse-dot pd1"/>
+  <circle cx="370" cy="340" r="3" fill="#a855f7" class="pulse-dot pd2"/>
+  <circle cx="630" cy="220" r="3" fill="#ff4d8d" class="pulse-dot pd3"/>
+  <circle cx="640" cy="340" r="3" fill="#00ffaa" class="pulse-dot pd4"/>
+  <circle cx="130" cy="80" r="3" fill="#00d2ff" class="pulse-dot pd5"/>
+  <circle cx="880" cy="70" r="3" fill="#ff4d8d" class="pulse-dot pd6"/>
+  <circle cx="880" cy="120" r="3" fill="#ff4d8d" class="pulse-dot pd7"/>
+  <circle cx="880" cy="430" r="3" fill="#00ffaa" class="pulse-dot pd8"/>
+
+  <!-- ════════ CENTRAL NODE: YATIN ════════ -->
+  <g class="node-group n1" filter="url(#soft-shadow)">
+    <rect x="420" y="220" width="160" height="80" rx="12" fill="#141e30" stroke="#00d2ff" stroke-width="2" filter="url(#glow-cyan)"/>
+    <!-- Icon circle -->
+    <circle cx="450" cy="260" r="16" fill="#0d1117" stroke="#00d2ff" stroke-width="1.5"/>
+    <text x="450" y="265" text-anchor="middle" fill="#00d2ff" font-size="16" font-family="monospace">⚡</text>
+    <!-- Text -->
+    <text x="480" y="254" fill="#ffffff" font-size="15" font-weight="bold" font-family="'Segoe UI', sans-serif">Yatin Arora</text>
+    <text x="480" y="274" fill="#8899aa" font-size="11" font-family="'Segoe UI', sans-serif">trigger: always running</text>
+  </g>
+
+  <!-- ════════ LEFT BRANCH ════════ -->
+
+  <!-- Role Node -->
+  <g class="node-group n2" filter="url(#soft-shadow)">
+    <rect x="170" y="95" width="210" height="52" rx="10" fill="#141e30" stroke="#00d2ff" stroke-width="1.5" filter="url(#glow-cyan)"/>
+    <circle cx="193" cy="121" r="12" fill="#0d1117" stroke="#00d2ff" stroke-width="1"/>
+    <text x="193" y="126" text-anchor="middle" fill="#00d2ff" font-size="12" font-family="monospace">💼</text>
+    <text x="215" y="115" fill="#e2eaf4" font-size="12" font-weight="bold" font-family="'Segoe UI', sans-serif">role</text>
+    <text x="215" y="132" fill="#00d2ff" font-size="11" font-family="'Fira Code', monospace">Sr. AI / ML Engineer</text>
+  </g>
+
+  <!-- Education Node (child of Role) -->
+  <g class="node-group n6" filter="url(#soft-shadow)">
+    <rect x="30" y="18" width="230" height="52" rx="10" fill="#141e30" stroke="#00d2ff" stroke-width="1" opacity="0.85"/>
+    <circle cx="53" cy="44" r="12" fill="#0d1117" stroke="#00d2ff" stroke-width="1"/>
+    <text x="53" y="49" text-anchor="middle" fill="#00d2ff" font-size="12" font-family="monospace">🎓</text>
+    <text x="75" y="38" fill="#e2eaf4" font-size="11" font-weight="bold" font-family="'Segoe UI', sans-serif">education</text>
+    <text x="75" y="54" fill="#5a7090" font-size="10" font-family="'Fira Code', monospace">M.Sc. Data Science · FAU</text>
+  </g>
+
+  <!-- Location Node -->
+  <g class="node-group n3" filter="url(#soft-shadow)">
+    <rect x="140" y="375" width="240" height="52" rx="10" fill="#141e30" stroke="#a855f7" stroke-width="1.5" filter="url(#glow-purple)"/>
+    <circle cx="163" cy="401" r="12" fill="#0d1117" stroke="#a855f7" stroke-width="1"/>
+    <text x="163" y="406" text-anchor="middle" fill="#a855f7" font-size="12" font-family="monospace">📍</text>
+    <text x="185" y="395" fill="#e2eaf4" font-size="12" font-weight="bold" font-family="'Segoe UI', sans-serif">base</text>
+    <text x="185" y="412" fill="#a855f7" font-size="11" font-family="'Fira Code', monospace">Frankfurt, Germany</text>
+  </g>
+
+  <!-- ════════ RIGHT BRANCH ════════ -->
+
+  <!-- Focus Node -->
+  <g class="node-group n4" filter="url(#soft-shadow)">
+    <rect x="620" y="72" width="210" height="58" rx="10" fill="#141e30" stroke="#ff4d8d" stroke-width="1.5" filter="url(#glow-pink)"/>
+    <circle cx="643" cy="101" r="12" fill="#0d1117" stroke="#ff4d8d" stroke-width="1"/>
+    <text x="643" y="106" text-anchor="middle" fill="#ff4d8d" font-size="12" font-family="monospace">🧠</text>
+    <text x="665" y="93" fill="#e2eaf4" font-size="12" font-weight="bold" font-family="'Segoe UI', sans-serif">focus</text>
+    <text x="665" y="108" fill="#ff4d8d" font-size="10" font-family="'Fira Code', monospace">Agentic AI · LLM · RAG</text>
+    <text x="665" y="122" fill="#5a7090" font-size="10" font-family="'Fira Code', monospace">LoRA · DPO · KTO</text>
+  </g>
+
+  <!-- Focus sub-node 1 -->
+  <g class="node-group n7" filter="url(#soft-shadow)">
+    <rect x="860" y="28" width="130" height="42" rx="8" fill="#141e30" stroke="#ff4d8d" stroke-width="1" opacity="0.8"/>
+    <text x="925" y="44" text-anchor="middle" fill="#e2eaf4" font-size="10" font-weight="bold" font-family="'Segoe UI', sans-serif">LangGraph</text>
+    <text x="925" y="58" text-anchor="middle" fill="#5a7090" font-size="9" font-family="'Fira Code', monospace">CrewAI · AutoGen</text>
+  </g>
+
+  <!-- Focus sub-node 2 -->
+  <g class="node-group n8" filter="url(#soft-shadow)">
+    <rect x="860" y="118" width="130" height="42" rx="8" fill="#141e30" stroke="#ff4d8d" stroke-width="1" opacity="0.8"/>
+    <text x="925" y="134" text-anchor="middle" fill="#e2eaf4" font-size="10" font-weight="bold" font-family="'Segoe UI', sans-serif">Milvus · Pinecone</text>
+    <text x="925" y="148" text-anchor="middle" fill="#5a7090" font-size="9" font-family="'Fira Code', monospace">Neo4j · FAISS</text>
+  </g>
+
+  <!-- Mode Node -->
+  <g class="node-group n5" filter="url(#soft-shadow)">
+    <rect x="620" y="372" width="210" height="58" rx="10" fill="#141e30" stroke="#00ffaa" stroke-width="1.5" filter="url(#glow-green)"/>
+    <circle cx="643" cy="401" r="12" fill="#0d1117" stroke="#00ffaa" stroke-width="1"/>
+    <text x="643" y="406" text-anchor="middle" fill="#00ffaa" font-size="12" font-family="monospace">🚀</text>
+    <text x="665" y="393" fill="#e2eaf4" font-size="12" font-weight="bold" font-family="'Segoe UI', sans-serif">mode</text>
+    <text x="665" y="408" fill="#00ffaa" font-size="10" font-family="'Fira Code', monospace">Build fast. Ship clean.</text>
+    <text x="665" y="422" fill="#5a7090" font-size="10" font-family="'Fira Code', monospace">Make it real.</text>
+  </g>
+
+  <!-- Mode sub-node: Company -->
+  <g class="node-group n9" filter="url(#soft-shadow)">
+    <rect x="860" y="430" width="130" height="42" rx="8" fill="#141e30" stroke="#00ffaa" stroke-width="1" opacity="0.8"/>
+    <text x="925" y="446" text-anchor="middle" fill="#e2eaf4" font-size="10" font-weight="bold" font-family="'Segoe UI', sans-serif">CAPCO GmbH</text>
+    <text x="925" y="460" text-anchor="middle" fill="#5a7090" font-size="9" font-family="'Fira Code', monospace">+ VedicMatch.in</text>
+  </g>
+
+  <!-- ════════ BOTTOM STATUS BAR ════════ -->
+  <rect x="20" y="485" width="960" height="24" rx="6" fill="#0a0f18" stroke="#1a2233" stroke-width="1"/>
+  <circle cx="36" cy="497" r="4" fill="#00ffaa" style="animation: dotPulse 2s ease-in-out infinite;"/>
+  <text x="48" y="501" fill="#5a7090" font-size="10" font-family="'Fira Code', monospace">workflow active</text>
+  <text x="500" y="501" text-anchor="middle" fill="#3a4a5a" font-size="10" font-family="'Fira Code', monospace">yatin_arora.workflow // 9 nodes • 8 connections • always running</text>
+  <text x="960" y="501" text-anchor="end" fill="#3a4a5a" font-size="10" font-family="'Fira Code', monospace">v2026.03</text>
+</svg>

@@ -1,98 +1,315 @@
-# 👋 Welcome to My AI World
+<div align="center">
 
-### "Driven by curiosity, powered by innovation, and fueled by data."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f1a,25:00d2ff,55:a855f7,100:ff4d8d&text=Yatin%20Arora&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20LLM%20Architecture%20%E2%80%A2%20Founder&descAlignY=58&descSize=18" width="100%" />
 
----
+<br/>
 
-## 💡 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=00D2FF&center=true&vCenter=true&width=900&lines=Building+AI+that+ships.;Agentic+systems+with+real+production+impact.;Enterprise+LLM+%2B+RAG+architecture.;LoRA+%2F+DPO+%2F+KTO+for+7B+models.;Founder+mode+after+hours.)](https://git.io/typing-svg)
 
-As an **AI innovator** with over 5 years of experience, I'm on a mission to **push the boundaries of what artificial intelligence can achieve**. My journey began with an insatiable curiosity for **deep learning** and **Generative AI**, and today I specialize in creating AI-driven solutions that **revolutionize industries** like healthcare, finance, and defense. 
+<br/>
 
-I am passionate about leveraging **large language models** (LLMs) and **next-gen machine learning techniques** to solve real-world problems, from automating complex processes to building AI systems that enhance human lives. 
+<a href="https://linkedin.com/in/yatin-arora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/yatindma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://medium.com/@spielmitdaten"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="mailto:yatin.arora@outlook.de"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+<a href="https://vedicmatch.in"><img src="https://img.shields.io/badge/VedicMatch.in-FF8A00?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
----
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=yatindma&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Frankfurt-Germany-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built%20for-AI%20at%20Scale-00ffaa?style=for-the-badge"/>
 
-## 🔥 Tech Stack Proficiency:
-
-![LangChain](https://img.shields.io/badge/LangChain-%2300C4CC.svg?style=plastic&logo=LangChain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3776AB.svg?style=plastic&logo=llamaindex&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=plastic&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FFB300.svg?style=plastic&logo=anthropic&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-AA3377.svg?style=plastic&logo=llama&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00ADD8.svg?style=plastic&logo=milvus&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1.svg?style=plastic&logo=neo4j&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=plastic&logo=apache-spark&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=plastic&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-
---- 
-These technologies are not just tools in my toolbox—they're my creative playground, helping me craft solutions that make a real impact.
+</div>
 
 ---
 
-## 🌟 What I'm Working On:
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d2ff,50:a855f7,100:ff4d8d&height=2" width="100%"/>
+</div>
 
-🚀 **Pioneering in Generative AI** to reshape how industries approach automation, especially in healthcare and finance.
+<div align="center">
 
-💡 **Exploring cutting-edge advancements** in **NLP**, **computer vision**, and **time series analysis** to drive innovation across sectors.
+## 01 / SYSTEM PROFILE
 
-🤝 **Collaborating with global AI researchers** to unlock new AI potentials and craft groundbreaking solutions that inspire and challenge the status quo.
+</div>
 
----
+<!-- ═══════════════ N8N ANIMATED NODE GRAPH ═══════════════ -->
 
-## 🔍 What I'm Focused On:
+<div align="center">
+<img src="https://raw.githubusercontent.com/yatindma/yatindma/main/n8n-profile.svg" width="100%"/>
+</div>
 
-My latest projects delve deep into the **optimization of LLMs** through innovative fine-tuning techniques and custom loss functions to boost performance. I'm currently exploring **Generative AI applications** in healthcare, which is a game-changing domain for the future of personalized medicine.
+AI Engineer • Systems Thinker • Builder • Founder
 
+</div>
 
-
----
-
-## 💬 Let's Talk About:
-
-I’m passionate about **AI solutions** that combine **data science**, **time series forecasting**, and **Generative AI**. If you’re looking to explore how AI is transforming sectors like **healthcare**, **finance**, and **national defense**, I’d love to connect. Together, we can shape the future.
-
----
-
-## 🌱 Fun Fact:
-
-When I’m not immersed in the intricacies of AI, I enjoy **swimming**, **hiking**, and embracing new adventures. Oh, and I’ve survived **La Tomatina**, the world’s largest tomato fight—a memory that reminds me of the unpredictability and joy in life, much like AI research!
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d8d,50:a855f7,100:00d2ff&height=2" width="100%"/>
+</div>
 
 ---
 
-## 🌍 Currently Seeking Collaboration:
+<div align="center">
 
-I'm always on the lookout for **like-minded AI professionals** and organizations pushing the boundaries of **AI technologies**. Whether you're exploring **computer vision**, **NLP**, or **Generative AI** innovations, let’s collaborate and create something truly impactful.
+## 02 / IMPACT
 
----
+</div>
 
-## 📈 GitHub Stats:
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/75%25-Manual%20Effort%20Removed-00d2ff?style=for-the-badge"/>
+<br/><sub>Multi-agent Jira + Azure DevOps automation</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/10x-Faster%20Risk%20Assessment-ffd166?style=for-the-badge"/>
+<br/><sub>DORA-aligned ICT risk workflow automation</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/90%25-Internal%20Platform%20Adoption-ff4d8d?style=for-the-badge"/>
+<br/><sub>GenAI platform rollout across Europe</sub>
+</td>
+</tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api?username=yatindma&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yatindma&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatindma&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🎯 My Motto:
-
-> “The best way to predict the future is to create it.” — Peter Drucker
-
-AI isn't just a tool; it's a revolution. I believe that by combining human creativity with the power of data, we can build the solutions of tomorrow. Let’s create that future together.
-
----
-
-## 📲 Connect with Me:
-
-I’m always open to new connections and discussions. Feel free to reach out, whether it’s for collaboration, sharing ideas, or just geeking out over the latest AI innovations!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yatin-arora) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@spielmitdaten)
-[![GitHub](https://img.shields.io/github/followers/yatindma?style=social)](https://github.com/yatindma)
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffaa,50:00d2ff,100:a855f7&height=2" width="100%"/>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yatindma&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+## 03 / WHAT I BUILD
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="72"/><br/>
+<b>Agentic AI</b><br/>
+<sub>LangGraph · CrewAI · AutoGen<br/>tool use · reflection · memory</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="72"/><br/>
+<b>LLM + RAG</b><br/>
+<sub>Milvus · Pinecone · Neo4j<br/>custom retrieval systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="72"/><br/>
+<b>Finetuning</b><br/>
+<sub>LoRA · DPO · KTO<br/>7B model adaptation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="72"/><br/>
+<b>MLOps</b><br/>
+<sub>Azure · CI/CD · monitoring<br/>production AI infra</sub>
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:ff4d8d,100:ffd166&height=2" width="100%"/>
+</div>
 
 ---
+
+<div align="center">
+
+## 04 / EXPERIENCE
+
+</div>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🏦 CAPCO GmbH — Consultant AI Engineer
+**Frankfurt, Germany**
+- Built multi-agent enterprise automation across Jira and Azure DevOps
+- Developed DORA-aligned ICT risk assessment workflows
+- Contributed to internal GenAI systems used across European teams
+
+### 🎓 FAU Erlangen-Nürnberg — M.Sc. Data Science
+**Erlangen, Germany**
+- Deep Learning and Generative AI specialisation
+- Thesis focused on modern LLM systems and evaluation
+
+### 🪐 VedicMatch.in — Founder
+**Built solo · Live**
+- AI-powered Vedic compatibility and matchmaking platform
+- Built end-to-end solo using cloud infra, payments, and LLM pipelines
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d8d,50:ffd166,100:00ffaa&height=2" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 05 / TECH STACK
+
+</div>
+
+<div align="center">
+
+**AI / LLM / AGENTS**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-00C4CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-00C4CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square"/>
+<img src="https://img.shields.io/badge/AutoGen-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude-FFB300?style=flat-square"/>
+
+**VECTOR / GRAPH / SEARCH**
+
+<img src="https://img.shields.io/badge/Milvus-00ADD8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+
+**CLOUD / MLOPS / DEVOPS**
+
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,githubactions,git&theme=dark" />
+
+</div>
+
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d2ff,50:00ffaa,100:ffd166&height=2" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 06 / VENTURE
+
+<a href="https://vedicmatch.in">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=120&section=header&text=VedicMatch.in&fontSize=38&fontColor=ffffff&desc=Ancient%20Vedic%20matching%20meets%20modern%20AI&descSize=16"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Built from scratch, solo**
+- AI-assisted Vedic astrology compatibility platform
+- Subscription + report-based product model
+- Cloud-hosted with LLM workflows and payment integration
+- Designed for the Indian diaspora and modern matchmaking workflows
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Live-vedicmatch.in-FF9A3C?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/GCP-Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Razorpay-Integrated-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Built-100%25%20Solo-00ffaa?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:00d2ff,100:00ffaa&height=2" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 07 / GITHUB SIGNAL
+
+<img src="https://github-readme-stats.vercel.app/api?username=yatindma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yatindma&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=ff4d8d&currStreakLabel=a855f7&sideNums=e2eaf4&dates=5a7090" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatindma&theme=tokyonight&hide_border=true&layout=compact&title_color=00d2ff&text_color=e2eaf4&bg_color=0d1117&langs_count=8" width="42%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatindma&bg_color=0d1117&color=00d2ff&line=a855f7&point=ff4d8d&area=true&hide_border=true" width="55%"/>
+
+</div>
+
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd166,50:ff4d8d,100:a855f7&height=2" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 08 / SELECTED PUBLIC BUILDS
+
+<a href="https://github.com/yatindma?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatindma&repo=SportScout-AI&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
+</a>
+<a href="https://github.com/yatindma?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatindma&repo=RAG-Pipeline&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=a855f7&text_color=e2eaf4&bg_color=0d1117" width="49%"/>
+</a>
+
+</div>
+
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffaa,50:a855f7,100:ff4d8d&height=2" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 09 / CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yatindma/yatindma/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yatindma/yatindma/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yatindma/yatindma/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- ═══════════════ NEON DIVIDER ═══════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d2ff,50:a855f7,100:ff4d8d&height=2" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 10 / CONNECT
+
+<a href="https://linkedin.com/in/yatin-arora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/yatindma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://medium.com/@spielmitdaten"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="mailto:yatin.arora@outlook.de"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+<a href="https://vedicmatch.in"><img src="https://img.shields.io/badge/VedicMatch.in-FF8A00?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,25:00d2ff,55:a855f7,100:ff4d8d&height=120&section=footer&text=Build%20Something%20Real&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+
+</div>
